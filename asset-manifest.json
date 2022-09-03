@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/avantgarde/static/css/main.e3f071c8.chunk.css",
+    "main.js": "/avantgarde/static/js/main.2d365f85.chunk.js",
+    "main.js.map": "/avantgarde/static/js/main.2d365f85.chunk.js.map",
+    "runtime-main.js": "/avantgarde/static/js/runtime-main.04b1258a.js",
+    "runtime-main.js.map": "/avantgarde/static/js/runtime-main.04b1258a.js.map",
+    "static/css/2.d0176e96.chunk.css": "/avantgarde/static/css/2.d0176e96.chunk.css",
+    "static/js/2.a04b1633.chunk.js": "/avantgarde/static/js/2.a04b1633.chunk.js",
+    "static/js/2.a04b1633.chunk.js.map": "/avantgarde/static/js/2.a04b1633.chunk.js.map",
+    "index.html": "/avantgarde/index.html",
+    "precache-manifest.552ce6461304fe9b579db131d0280022.js": "/avantgarde/precache-manifest.552ce6461304fe9b579db131d0280022.js",
+    "service-worker.js": "/avantgarde/service-worker.js",
+    "static/css/2.d0176e96.chunk.css.map": "/avantgarde/static/css/2.d0176e96.chunk.css.map",
+    "static/css/main.e3f071c8.chunk.css.map": "/avantgarde/static/css/main.e3f071c8.chunk.css.map",
+    "static/js/2.a04b1633.chunk.js.LICENSE.txt": "/avantgarde/static/js/2.a04b1633.chunk.js.LICENSE.txt",
+    "static/media/kaduna-map.png": "/avantgarde/static/media/kaduna-map.636c3af6.png",
+    "static/media/marc.jpg": "/avantgarde/static/media/marc.8880a65c.jpg",
+    "static/media/ruwasa.jpg": "/avantgarde/static/media/ruwasa.59d726b5.jpg",
+    "static/media/ruwasa.png": "/avantgarde/static/media/ruwasa.2b0f3c4d.png",
+    "static/media/ruwassa.PNG": "/avantgarde/static/media/ruwassa.41fd881b.PNG",
+    "static/media/sidebar-1.jpg": "/avantgarde/static/media/sidebar-1.8e9f0a3c.jpg",
+    "static/media/sidebar-2.jpg": "/avantgarde/static/media/sidebar-2.c93fc923.jpg",
+    "static/media/sidebar-3.jpg": "/avantgarde/static/media/sidebar-3.25031690.jpg",
+    "static/media/sidebar-4.jpg": "/avantgarde/static/media/sidebar-4.fc9cb053.jpg",
+    "static/media/ukaidd.jpg": "/avantgarde/static/media/ukaidd.ed6e184d.jpg",
+    "static/media/unicef.png": "/avantgarde/static/media/unicef.d9796521.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04b1258a.js",
+    "static/css/2.d0176e96.chunk.css",
+    "static/js/2.a04b1633.chunk.js",
+    "static/css/main.e3f071c8.chunk.css",
+    "static/js/main.2d365f85.chunk.js"
+  ]
+}
